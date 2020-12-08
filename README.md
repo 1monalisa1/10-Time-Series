@@ -21,7 +21,7 @@
 
   With this particular case involving predictions around Yen Futures, more information would be needed to determine if this model is sufficient for the decisions that are to be made around their purchase, sale or the timing around international trade.
 
-## Time-Series Forecasting
+## Time Series Forecasting
 
 *Initial Assumptions*
 
