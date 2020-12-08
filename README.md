@@ -9,6 +9,7 @@
 
   *In-Sample Root Mean Squared Error (RMSE): 0.596204*
   *	Training Set: Estimation and model selection
+  
   *Out-of-Sample Root Mean Squared Error (RMSE): 0.415454*
   *	Testing Set: Evaluates forecasting performance 
 
